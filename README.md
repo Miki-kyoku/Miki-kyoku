@@ -1,8 +1,8 @@
-🐸🐸🦄🐱‍💻🐱‍👓🐱‍🚀
+:3 
 - 👋 Hi, I’m Miki
-- 👀 I’m interested in Animation, Maga and Game
-- 🌱 I’m currently learning Computer Science （General）
-- 💞️ I’m looking to collaborate on practicing
+- 👀 interested in Animation, Maga and Game
+- 🌱 currently learning Computer Science （General）
+- 💞️ looking to collaborate on practicing
 
 
 <!---
